@@ -1,0 +1,37 @@
+name: eazybytes
+languagge: "Java"
+area: 'Online'
+major-version: 2
+minor-version: 0.5
+hex: 0x12d6 #evaluates to 4822
+octal: 024432 #evaluates to 10522
+goodDay: true
+badday: false
+niceweekend: Yes
+boringweekend: No
+positive-infinity: .inf # evaluates to infinity
+negative-infinity: -.Inf #evaluates to negative infinity
+invalidNumber: .NAN #Not a Number
+null-value: null
+null-value1: ~
+null-value2: 
+
+# {
+#   "major-version": 2, 
+#   "minor-version": 0.5, 
+#   "null-value2": null, 
+#   "null-value1": null, 
+#   "invalidNumber": NaN, 
+#   "negative-infinity": -Infinity, 
+#   "name": "eazybytes", 
+#   "area": "Online", 
+#   "languagge": "Java", 
+#   "niceweekend": true, 
+#   "hex": 4822, 
+#   "positive-infinity": Infinity, 
+#   "goodDay": true, 
+#   "badday": false, 
+#   "null-value": null, 
+#   "octal": 10522, 
+#   "boringweekend": false
+# }
