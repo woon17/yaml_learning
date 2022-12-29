@@ -1,0 +1,22 @@
+organization: eazybank
+about: |-
+  EazyBank
+  is an
+  Bank based
+  application.
+  
+history: >+
+  EazyBank
+  established
+  in 1989.
+  
+products: "[Accounts] & {Cards} - <Loans>" #For special characters, we need to use double quotes in String
+hasMobileApp: "Yes" #With out quotes will result as True
+
+# {
+#   "organization": "eazybank",
+#   "about": "EazyBank\nis an\nBank based\napplication.",
+#   "history": "EazyBank established in 1989.\n\n",
+#   "products": "[Accounts] & {Cards} - <Loans>",
+#   "hasMobileApp": "Yes"
+# }
