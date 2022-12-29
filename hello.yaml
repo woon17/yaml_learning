@@ -1,0 +1,19 @@
+firstname: easy
+lastname: bytes
+courses:
+  - YAML
+  - Spring Microservices
+  - Spring Security
+# https://www.json2yaml.com/
+# https://yaml-online-parser.appspot.com/
+
+# json format
+# {
+#   "firstname": "easy",
+#   "lastname": "bytes",
+#   "courses": [
+#     "YAML",
+#     "Spring Microservices",
+#     "Spring Security"
+#   ]
+# }
